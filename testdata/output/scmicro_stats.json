@@ -1,0 +1,9 @@
+{
+  "total_reads": 309,
+  "host_filtered": 309,
+  "microbial_aligned": 84,
+  "final_matrix_shape": [
+    1,
+    10
+  ]
+}

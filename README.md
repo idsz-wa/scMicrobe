@@ -363,15 +363,11 @@ If you see "mapping information not recorded in index":
 If you use scMicrobe in your research, please cite:
 
 ```
-scMicrobe: Single-Cell Microbial Quantification from Host scRNA-seq BAM
+scMicrobe: Haven't decided on a name yet
 [Authors]
 [Journal]
 [Year]
 ```
-
-## License
-
-GPL-3.0 license
 
 ## Contributing
 
@@ -386,3 +382,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## Contact
 
 For questions or issues, please open an issue on the project repository.
+
